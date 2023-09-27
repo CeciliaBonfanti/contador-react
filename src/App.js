@@ -27,12 +27,21 @@ function App() {
     setContador(contador - 1);
   }
 
+  const resetear = () => {
+    setContador(0);
+    setAnimales([]);
+  }
+
   return (
     <div className="App">
       <div className='contador'>
         <button className="btn" onClick={quitarAnimal}>-</button>
         <span className="num">{contador}</span>
         <button className="btn" onClick={agregarAnimal}>+</button>
+      </div>
+      <div className='resetear'>
+          <p>¿Muchos clicks?</p>
+          <button onClick={resetear}>Volvé a 0</button>
       </div>
       {animales.map((animal, index) => (
         <img key={index} src={contador > 0 ? gato : perro} style={{position: 'absolute', top: animal.top, left: animal.left}} alt="animal" />
