@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa71fce6.css",
+    "main.js": "/static/js/main.992eeebb.js",
+    "static/js/787.8b246723.chunk.js": "/static/js/787.8b246723.chunk.js",
+    "static/media/perro.png": "/static/media/perro.00e0dda9902abeadd20a.png",
+    "index.html": "/index.html",
+    "main.fa71fce6.css.map": "/static/css/main.fa71fce6.css.map",
+    "main.992eeebb.js.map": "/static/js/main.992eeebb.js.map",
+    "787.8b246723.chunk.js.map": "/static/js/787.8b246723.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa71fce6.css",
+    "static/js/main.992eeebb.js"
+  ]
+}
