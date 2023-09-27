@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.fa71fce6.css",
-    "main.js": "/static/js/main.992eeebb.js",
-    "static/js/787.8b246723.chunk.js": "/static/js/787.8b246723.chunk.js",
-    "static/media/perro.png": "/static/media/perro.00e0dda9902abeadd20a.png",
-    "index.html": "/index.html",
-    "main.fa71fce6.css.map": "/static/css/main.fa71fce6.css.map",
-    "main.992eeebb.js.map": "/static/js/main.992eeebb.js.map",
-    "787.8b246723.chunk.js.map": "/static/js/787.8b246723.chunk.js.map"
+    "main.css": "/contador-react/static/css/main.fa71fce6.css",
+    "main.js": "/contador-react/static/js/main.5c21f369.js",
+    "static/js/787.8b246723.chunk.js": "/contador-react/static/js/787.8b246723.chunk.js",
+    "static/media/perro.png": "/contador-react/static/media/perro.00e0dda9902abeadd20a.png",
+    "index.html": "/contador-react/index.html",
+    "main.fa71fce6.css.map": "/contador-react/static/css/main.fa71fce6.css.map",
+    "main.5c21f369.js.map": "/contador-react/static/js/main.5c21f369.js.map",
+    "787.8b246723.chunk.js.map": "/contador-react/static/js/787.8b246723.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa71fce6.css",
-    "static/js/main.992eeebb.js"
+    "static/js/main.5c21f369.js"
   ]
 }
