@@ -22,7 +22,7 @@ function App() {
     if (contador > 0 && animales.length > 0) {
       setAnimales(animales.slice(0, -1));
     } else if (contador <= 0) {
-      setAnimales([...animales, {top: Math.random() * window.innerHeight, left: Math.random() * window.innerWidth}]);
+      setAnimales([...animales, {top: Math.random() * (window.innerHeight - 128), left: Math.random() * (window.innerWidth - 128)}]);
     }
     setContador(contador - 1);
   }
